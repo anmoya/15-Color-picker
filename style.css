@@ -1,5 +1,5 @@
 .jumbotron {
-    background-color: #3bb7d4;
+    background: url('https://static1.squarespace.com/static/56971031dc5cb48ef9ba17ee/t/58b6728ff7e0abb43a598a21/1488351889582/');
     margin-bottom: 0;
 }
 
@@ -15,4 +15,9 @@
     float: left;
     margin: 5px;
     border-radius: 15px;
+}
+
+.desaparece {
+    display: none;
+
 }
